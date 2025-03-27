@@ -1,0 +1,5 @@
+	go get github.com/sap/component-operator-runtime/pkg/manifests/helm
+	go get github.com/sap/component-operator-runtime/pkg/types
+	go get github.com/sap/component-operator-runtime/pkg/component
+	go get github.com/sap/component-operator-runtime/pkg/operator
+	go get k8s.io/kube-aggregator/pkg/apis/apiregistration/v1
