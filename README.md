@@ -1,8 +1,8 @@
-# operator-mar269-2025
-// TODO(user): Add simple overview of use/purpose
+# Hello World Operator 
+Based on sap HelmGenerator, create and manage k8s resources. 
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
+Kubebuilder is a useful tool to create k8s operators, and HelmGenerator is able to create and manage k8s Helm resources. This is an icebreaker tour.
 
 ## Getting Started
 
